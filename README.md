@@ -14,7 +14,8 @@ This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in 
 It has only been tested on Debian Stretch running the Mate desktop.
 
 
-#INSTALLATION
+
+# INSTALLATION
 
 Click the green Clone or download button then Download ZIP.  When this has downloaded open it an extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
 
