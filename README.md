@@ -3,15 +3,15 @@
 
 - All icons now scaling allright and some more icons included!
 
-*screenshot*
-
-![screenshot_2016-10-23_17-02-42](https://github.com/ThePillenwerfer/Windows-XP/blob/master/Misc/Screenshot%20at%202019-06-16%2015-13-04.png)
 
 
 This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slighly modified so that word processor documents, PDFs and ePubs all show with different icons. 
 
 It has only been tested on Debian Stretch running the Mate desktop.
 
+*screenshot*
+
+![screenshot_2016-10-23_17-02-42](https://github.com/ThePillenwerfer/Windows-XP/blob/master/Misc/Screenshot%20at%202019-06-16%2015-13-04.png)
 
 
 # INSTALLATION
