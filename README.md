@@ -7,7 +7,7 @@
 
 This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slighly modified so that word processor documents, PDFs, djvu files and ePubs all show with different icons.  A few other icons have been added/tweaked.
 
-It has only been tested on Debian Stretch running the Mate desktop.
+It has only been tested, and not very thoroughly, on Debian Stretch running the Mate desktop.
 
 *screenshot*
 
