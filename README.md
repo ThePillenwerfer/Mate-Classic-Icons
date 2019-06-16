@@ -19,4 +19,4 @@ It has only been tested on Debian Stretch running the Mate desktop.
 
 Click the green Clone or download button then Download ZIP.  When this has downloaded open it an extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
 
-Now open the Mate Control Center and click Appearance then Customise followed by the Icons tab.  This will bring up a list which should now include WinXP.  Click that.
+Now open the Mate Control Centre and click Appearance then Customise followed by the Icons tab.  This will bring up a list which should now include WinXP.  Click that.
