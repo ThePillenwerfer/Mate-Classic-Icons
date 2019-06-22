@@ -5,7 +5,7 @@
 
 #  
 
-This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slighly modified so that word processor documents, PDFs, djvu files and ePubs all show with different icons.  A few other icons have been added/tweaked.
+This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slightly modified so that different document and image types show with different icons.  A few other icons have been added or reassigned. 
 
 It has only been tested, and not very thoroughly, on Debian Stretch running the Mate desktop.
 
@@ -18,7 +18,7 @@ It has only been tested, and not very thoroughly, on Debian Stretch running the 
 
 # INSTALLATION
 
-Click the green Clone or download button then Download ZIP.  When this has downloaded open it an extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
+Click the green "Clone or download button" then Download ZIP.  When this has downloaded open it and extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
 
 Now open the Mate Control Centre and click Appearance and choose the TraditionalOK theme.  Then click Customise followed by the Window Border tab and choose WinMe.  Now click the Icons tab and choose WinXP.
 
