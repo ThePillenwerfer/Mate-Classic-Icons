@@ -22,6 +22,8 @@ Click the green "Clone or download button" then Download ZIP.  When this has dow
 
 Now open the Mate Control Centre and click Appearance and choose the TraditionalOK theme.  Then click Customise followed by the Window Border tab and choose WinMe.  Now click the Icons tab and choose WinXP.
 
+Most icons will change immediately but a few, such as those in the Notification Area, only will after a reboot.
+
 
 # SUPPORT
 
