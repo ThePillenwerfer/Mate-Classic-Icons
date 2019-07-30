@@ -1,13 +1,10 @@
-# WinXP-Icons
-### This icon pack is a remake of the classic YlmfOS theme with some mods for icons to scale right
-
-- All icons now scaling allright and some more icons included!
+# Classic Windows Icons for the Mate Desktop
 
 #  
 
-This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slightly modified so that different document and image types show with different icons.  A few other icons have been added or reassigned. 
+This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slightly modified so that different document and image types show with different icons.  A few other icons have been added, changed or reassigned. 
 
-It has only been tested, and not very thoroughly, on Debian Stretch running the Mate desktop.
+It has only been tested on Debian Stretch running the Mate desktop.  I haven't deliberately removed functionality for other desktops but may have done so by accident.
 
 *screenshots*
 
