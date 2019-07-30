@@ -1,6 +1,5 @@
 # Classic Windows Icons for the Mate Desktop
-
-#  
+  
 
 This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slightly modified so that different document and image types show with different icons.  A few other icons have been added, changed or reassigned. 
 
