@@ -9,7 +9,7 @@ It has only been tested on Debian Stretch running the Mate desktop.  I haven't d
 
 ![screenshot_2018-06-19_15-02-42](https://github.com/ThePillenwerfer/Windows-XP/blob/master/Misc/Screenshot%20at%202019-06-16%2015-13-04.png)
 
-![start](https://github.com/ThePillenwerfer/Windows-XP/blob/master/Misc/start.png)
+![start](https://github.com/ThePillenwerfer/Windows-XP/blob/master/Misc/menu.png)
 
 
 
