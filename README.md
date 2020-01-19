@@ -1,4 +1,4 @@
-# Classic Windows Icons for the Mate Desktop
+# Classic Icons for the Mate Desktop
   
 
 This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slightly modified so that different document and image types show with different icons.  A few other icons have been added, changed or reassigned. 
@@ -20,6 +20,8 @@ Click the green "Clone or download button" then Download ZIP.  When this has dow
 Now open the Mate Control Centre and click Appearance and choose the TraditionalOK theme.  Then click Customise followed by the Window Border tab and choose WinMe.  Now click the Icons tab and choose WinXP.
 
 Most icons will change immediately but a few, such as those in the Notification Area, only will after a reboot.
+
+The Start button has to be changed manually.  Right click it then choose Preferences.  Delete the contents of the Button text box then click on the box next to the words Button icon.  Now navigate to ~/.icons/Window-XP-master/misc and choose Start.png — again you may have to press Ctrl-h to make it show.
 
 
 # SUPPORT
