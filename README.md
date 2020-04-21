@@ -21,7 +21,7 @@ Now open the Mate Control Centre and click Appearance and choose the Traditional
 
 Most icons will change immediately but a few, such as those in the Notification Area, only will after a reboot.
 
-The Start button has to be changed manually.  Right click it then choose Preferences.  Delete the contents of the 'Button text' box then click on the box next to the words 'Button icon'.  Now navigate to ~/.icons/Window-XP-master/misc and choose Start.png — again you may have to press Ctrl-h to make it show.
+The Start button has to be changed manually.  Right click it then choose Preferences.  Delete the contents of the 'Button text' box then click on the box next to the words 'Button icon'.  Now navigate to ~/.icons/Window-XP-master/Misc and choose Start.png — again you may have to press Ctrl-h to make it show.
 
 
 # SUPPORT
