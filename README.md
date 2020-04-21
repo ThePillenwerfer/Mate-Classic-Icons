@@ -1,7 +1,7 @@
 # Classic Icons for the Mate Desktop
   
 
-This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019 and slightly modified so that different document and image types show with different icons.  A few other icons have been added, changed or reassigned. 
+This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019, expanded and modified so that different document and image types show with different icons.
 
 It has only been tested on Debian Stretch running the Mate desktop.  I haven't deliberately removed functionality for other desktops but may have done so by accident.
 
@@ -21,7 +21,7 @@ Now open the Mate Control Centre and click Appearance and choose the Traditional
 
 Most icons will change immediately but a few, such as those in the Notification Area, only will after a reboot.
 
-The Start button has to be changed manually.  Right click it then choose Preferences.  Delete the contents of the Button text box then click on the box next to the words Button icon.  Now navigate to ~/.icons/Window-XP-master/misc and choose Start.png — again you may have to press Ctrl-h to make it show.
+The Start button has to be changed manually.  Right click it then choose Preferences.  Delete the contents of the 'Button text' box then click on the box next to the words 'Button icon'.  Now navigate to ~/.icons/Window-XP-master/misc and choose Start.png — again you may have to press Ctrl-h to make it show.
 
 
 # SUPPORT
