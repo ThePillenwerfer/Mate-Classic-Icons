@@ -3,7 +3,7 @@
 
 This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019, expanded and modified so that different document and image types show with different icons.
 
-It has only been tested on Debian Stretch running the Mate desktop.  I haven't deliberately removed functionality for other desktops but may have done so by accident.
+It has only been tested on Debian Stretch running the Mate desktop and briefly on a Raspberry Pi running whatever it's default DE is.  I haven't deliberately removed functionality for other desktops but may have done so by accident.
 
 *screenshots*
 
