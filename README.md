@@ -3,7 +3,7 @@
 
 This version downloaded from https://github.com/B00merang-Artwork/Windows-XP in June 2019, expanded and modified so that different document and image types show with different icons.
 
-It has only been fully tested on Debian Stretch running the Mate desktop and briefly xfce and a Raspberry Pi running whatever its default DE is.  I haven't deliberately removed functionality for other desktops but may have done so by accident.
+It has only been fully tested on Debian Stretch and Buster running the Mate desktop and briefly xfce and a Raspberry Pi running whatever its default DE is.  I haven't deliberately removed functionality for other desktops but may have done so by accident.
 
 *screenshots*
 
@@ -15,7 +15,7 @@ It has only been fully tested on Debian Stretch running the Mate desktop and bri
 
 # INSTALLATION
 
-Click the green "Clone or download button" then Download ZIP.  When this has downloaded open it and extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
+Click the green "Code" button then Download ZIP.  When this has downloaded open it and extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
 
 Now open the Mate Control Centre and click Appearance and choose the TraditionalOK theme.  Then click Customise followed by the Window Border tab and choose WinMe.  Now click the Icons tab and choose WinXP.
 
