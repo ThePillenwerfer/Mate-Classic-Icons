@@ -15,9 +15,9 @@ It has only been fully tested on Debian Stretch and Buster running the Mate desk
 
 # INSTALLATION
 
-Click the green "Code" button then Download ZIP.  When this has downloaded open it and extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
+Either click Releases and then *mate-classic-icons.deb* and install the downloaded .deb package by double-clicking it or click the green "Code" button then Download ZIP.  When this has downloaded open it and extract the Windows-XP-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
 
-Now open the Mate Control Centre and click Appearance and choose the TraditionalOK theme.  Then click Customise followed by the Window Border tab and choose WinMe.  Now click the Icons tab and choose WinXP.
+Now open the Mate Control Centre and click Appearance and choose the TraditionalOK theme.  Then click Customise followed by the Window Border tab and choose WinMe.  Now click the Icons tab and choose Mate-Classic.
 
 Most icons will change immediately but a few, such as those in the Notification Area, only will after a reboot.
 
