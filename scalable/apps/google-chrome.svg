@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2377"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="google-chrome.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   viewBox="0 0 16 16"
-   height="16"
-   width="16"
-   id="svg2"
-   version="1.1">
-  <metadata
-     id="metadata8">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs6" />
-  <image
-     y="0"
-     x="0"
-     id="image10"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAIABJREFU
+     id="defs2381" />
+  <sodipodi:namedview
+     id="namedview2379"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2383">
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJztfXm8XVV59rPW2nuf4Z5zp9wxyc1IIIQhzJO0ghSwKILWaqGitLZaxQ5Q9LPWtrbFtp+t1VKs
 1taxDm0dCmqlyKyEADJDgIQEMt4kN3c+8957rff7Y09r77PPHZKbAP3y/n777Hlaz/MO611rrwMc
 laNyVI7KUTkqR+WoHJWjclT+/xL2Sj/A4ZDPnn8KM7lgluAwOGeCcwBgBDAG4DtbdzICAIrOYQx4
@@ -282,7 +286,6 @@ ynaJXo3aniavHQLowsGYYIx5XY8ZKeKQJEiSN5iVB3QS+OSfKCffXU8cq5RJBvOMyZQpIA3BFGMg
 uZLIka89wJPyv4MAzeL/ZyzAGGOMIRzakDOGRkOlvndblkX/CkcgbyhYeMMGB38bfFSOylE5Kkfl
 qByVo/K/QP4fO0XvpZcpt8oAAAAASUVORK5CYII=
 "
-     preserveAspectRatio="none"
-     height="16"
-     width="16" />
+       id="image2385" />
+  </g>
 </svg>

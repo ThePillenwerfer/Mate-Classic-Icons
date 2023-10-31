@@ -2,63 +2,37 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1.8028169in"
-   height="1.8028169in"
-   viewBox="0 0 45.791549 45.79155"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="pdfscissors.svg">
+   id="svg3367"
+   width="173.07042"
+   height="173.07042"
+   viewBox="0 0 173.07042 173.07042"
+   sodipodi:docname="pdfscissors.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2" />
+     id="defs3371" />
   <sodipodi:namedview
-     id="base"
+     id="namedview3369"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
+     inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-782.03623"
-     inkscape:cy="363.67807"
-     inkscape:document-units="in"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="in"
-     inkscape:window-width="1280"
-     inkscape:window-height="734"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-185.74709,-202.28874)">
+     inkscape:label="Image"
+     id="g3373">
     <image
-       y="202.28874"
-       x="185.74709"
-       id="image85"
+       width="173.07042"
+       height="173.07042"
+       preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAB3RJTUUH4wwTBiwJnzh5RAAAAAlw
 SFlzAAAK8AAACvABQqw0mAAAAARnQU1BAACxjwv8YQUAAEReSURBVHja7FsJcFVllj7/Xd6etyQv
 L5uEsAVCIiEGAokjCY0LCu4b2LaoPY49WtLa021VV/cMsau627Gn3Vq0pNpxLLVVGBGhRqBRw+aE
@@ -370,9 +344,6 @@ PHdu/MRnfQNYiwwwv8t3TVesWNa6oqt9ZW19/WAkHIIXUnPp8vjW119/48nTFy8eE5+x7l9ct275
 IW/xOZnStrgW1+JaXItrcS2uxbW4FtfiWlyLa3EtrsW1uL6A6/8ARoVA6ONsIVgAAAAASUVORK5C
 YII=
 "
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="45.79155"
-       width="45.79155" />
+       id="image3375" />
   </g>
 </svg>

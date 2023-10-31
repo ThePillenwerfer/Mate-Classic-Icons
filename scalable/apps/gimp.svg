@@ -2,63 +2,37 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="0.42666665in"
-   height="0.42666665in"
-   viewBox="0 0 10.837333 10.837333"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="gimp.svg">
+   id="svg1522"
+   width="40.959999"
+   height="40.959999"
+   viewBox="0 0 40.959999 40.959999"
+   sodipodi:docname="gimp.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2" />
+     id="defs1526" />
   <sodipodi:namedview
-     id="base"
+     id="namedview1524"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
+     inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-488.09142"
-     inkscape:cy="183.33715"
-     inkscape:document-units="in"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="in"
-     inkscape:window-width="1280"
-     inkscape:window-height="734"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-107.97419,-189.52776)">
+     inkscape:label="Image"
+     id="g1528">
     <image
-       y="189.52776"
-       x="107.97419"
-       id="image85"
+       width="40.959999"
+       height="40.959999"
+       preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAB3RJTUUH5AQGEx8ungYUUAAAAAlw
 SFlzAAAuIwAALiMBeKU/dgAAAARnQU1BAACxjwv8YQUAACszSURBVHja7Fx7dBzVef9mdlf71Or9
 sJ6WZMm2Xpa8elk2DjH4xMYhbqCFlEcodVqgHJL40ENS2p6U/pFwDj2F0/S0btqSQFtC3MYN1DRg
@@ -257,9 +231,6 @@ J5H5f4rjADJc4aqAA8KieRy0NWvddxi36EtCsVhstKur67VoNJpCF9CwagdE9Xj/Rt9ji24PdaDL
 1KIWtahFLWpRi1rUoha1qEUtalGLWtSiFrWoRS1qUYt+Cej/AEaoRi4e9Jl0AAAAAElFTkSuQmCC
 
 "
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="10.837333"
-       width="10.837333" />
+       id="image1530" />
   </g>
 </svg>

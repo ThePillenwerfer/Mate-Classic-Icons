@@ -1,24 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
-  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg width="16" height="16">
-  <image id="image0" width="16" height="16" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABsFBMVEUAAAB7rNp4qtoAUMd5
-q9pAld08l+QZetU/fb2Vu91Xl9ZKcLw/aboPOKAPPaF5q9t7rNpqotg4htOZvN5PktUHacxkp+Ai
-iNsYhNwXg94Yg94Wgt4Vgt0RgOEZh+ZhqOMYd9QfeNCVu92yz+UGWL8TWLSqz+xqothNktU5Y7Uy
-YLZOktV8rNo4htIDaMxCZ7c5YrYDaMwDaMxBZ7c4YbUDaMxNktU/Zrc2YbVNktWXv98+Zrc2Ybad
-w+AsV69khcZqislniMlmh8ljhchegshbgcdTesQpVa8cSKgCKJgmTqo4eccAWcEAWcE5escnUqsC
-L5ocSairyOFdm9chedCgwN9qotgehNYhi94dhuMcheIrj+Yvkucxk+lDg8AUXbYUXbQUXbQTXbQi
-ZrgnarkpbLs7XZW5x9u/0d+8z965zd61y92yyd2tyOGavOPk6vX6/P/y9/7q8v3h7fzZ5/vR4vq2
-zO/f5/Ty9/3p8fzh7PvY5/rQ4vnI3fivyO7a5PTr8/3i7fva6PrR4vnI3fjC2feqxe3U4PPk7/zb
-6PrT4/nK3vjC2fe81vamw+3///9qGayiAAAAV3RSTlMAAAAAAAAAAAAAAAAAAAAAQkvlDImnbaqm
-paSkpaaqbaamAwumpgtMiaWliUHppqSkpqakpKaJpaWJC6amC5ft5+Lh4eLn7ZcQGCBqcXFqIBgQ
-BYP5B3jdorFuAAAAAWJLR0SP9QKD+QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+AKERIR
-GCeSVSEAAADUSURBVBjTY2AAA0YBAUYGBGBiFhQSEmRmgguwCIuIiooIs0C5rGLiEpJS0jKycvJs
-YAF2hfCIyKjomNg4RQ4gl1NJWSU+ITEpOSU1TVVNiZOBS11DMz0jMys7JzdPS1udi0FHV08/v6Cw
-qLiktMzAUFcHKGBkXF5RWVVdU1tnYgoU4FI3M69vaGxqbmlts7AEauFUsrJu7+js6u7p7bOxBRrK
-wMBtZ+/g6OTs4urmzgN2B6+Hp5e3j6+ff0AgH9St/EHBISHBQfwI33GGhoWFcjJgBQCJwiwH+Md1
-YAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0xMC0xN1QxNDoxNzoxMi0wNDowMGtaJ5sAAAAldEVY
-dGRhdGU6bW9kaWZ5ADIwMTAtMTItMTdUMDU6MzE6NDQtMDU6MDCaJW4YAAAAAElFTkSuQmCC" />
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2557"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="view-fullscreen-symbolic.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2561" />
+  <sodipodi:namedview
+     id="namedview2559"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2563">
+    <image
+       width="32"
+       height="32"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9oMHQE4E4oRYLgAAAGzSURBVEjH
+1ZUxSFtRFIa/F4JOxkXRoahZsjnbxaE4OHToFnBwE9zqmIxClzjq3KlLIYtThw4BQToIbnUxHUQo
+RZcSIx1899xzHF5efC8vT2OhmF64nMs93P8/5z/33gPjNOrNttWbbftn4MH2qQXbp88iCUYF32t1
+U3u1tRKNaiV4cVmHRrD75dL2T+5GAujKFKXiLTsrk+y+XczgFYcd2j+549WEMr+s/P41PwLNJB++
+DQ9oKEHnxzWd2WnOWgA/M/7364scfL3s2+/uHcudT6NLFGwc28R1+1lah3MV7PPq4xLVm21rVCvB
+0p8rWh/fcH4TPl2D4gwzRWOrdsRFAiNDMHgVy+UyCwpeDVFw3gglstE6mk4g9No/t9fqpkgKefdc
+Fbw9gEdT++ARcOxLKxOT5BYZQMwQD+LT1onhPDg1pEcsmv+wCwCNaiWorZUyGYhaIvpetApOlFAi
+AlEQT+4rL8SbgyQujrg3w5gokUHs84kMBr+QlERJh4u1j7MQHrLwRJGr4RUSNc78T/k1EEMkAS6W
+AO/J4w1v8EgJ8glebx7yX4zx6Qd/29HGpyeP7bgHQ05fFoVwLBYAAAAASUVORK5CYII=
+"
+       id="image2565" />
+  </g>
 </svg>
