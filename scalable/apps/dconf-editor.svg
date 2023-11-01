@@ -3,10 +3,10 @@
 
 <svg
    version="1.1"
-   id="svg1117"
-   width="40.959999"
-   height="40.959999"
-   viewBox="0 0 40.959999 40.959999"
+   id="svg172"
+   width="15.36"
+   height="15.36"
+   viewBox="0 0 15.36 15.36"
    sodipodi:docname="dconf-editor.png"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -14,9 +14,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1121" />
+     id="defs176" />
   <sodipodi:namedview
-     id="namedview1119"
+     id="namedview174"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -28,36 +28,29 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g1123">
+     id="g178">
     <image
-       width="40.959999"
-       height="40.959999"
+       width="15.36"
+       height="15.36"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAALHRFWHRDcmVhdGlvbiBUaW1lAEZy
-aSAyMSBKdW4gMjAxOSAxODowMTo0MiAtMDAwMMt+WbAAAAAHdElNRQfjBhURBgdhWWrjAAAACXBI
-WXMAAC4jAAAuIwF4pT92AAAABGdBTUEAALGPC/xhBQAABJtJREFUeNrtnWuWmzAMRkNP9zXZ2TA7
-S1dGS9pmjAgysh0e+e79BaOJMTnfkSz5kcsFAAAAAAAAhOj27sBZ6Pt+SK7f5nv7sXcHYF8QgDhv
-48pak7r8kc/Pz8d194e9+9cKPIA4CEAcBCDO28SyWryYP5J+UYP57JnHBHgAcRCAOAhAnNPGrhak
-cd+L+SPDStvd3mhMYMclmf8teiYeQBwEIM7PvTtwFLqvr8n9EEkDzWdLyaaijZ6TggcQBwGIgwDE
-YQywgDcmaBmLQ6mo1webMq5MC/EA4iAAcRCAOJuVgiNlzUw7nbkfPHtp//rYh1c/011qZv53Vm/w
-bN64xOkfHkAcBCBO0xDgufnepDiXdMJsGJZt1j5PfxbfqSY8uCGh4caQ4hnJXCpKGghrQADiIABx
-qmLZkxj7fROJ655tJI13dizhpz+2v/b+UCuiqqaDWREEJSAAcRCAOKG44cb8kUhc9+oANtalsdCz
-PbNPO2zfJ70+1HjgX5+alLk98ADiIABx6lYERdy6ExJ647Zt2Ti1ezZrn9mcV2k1W/mk3WK3vUVY
-wgOIgwDEQQDiuDFmloZ4U7ojgTQwtNkyvcmkgV677lSy0z/bVnY1zgFTyiXwAOIgAHEQgDixOkDD
-8m7nlHc7r7ybKf167XrkigCh5VgJWxzyUAMeQBwEIE4sBATKu7NUyUvXHJu159otXT0USkUDbHHI
-Qw14AHEQgDgIQJy2aWAS37pIumba7WrKxoVpYC4VdUvMtk/D9wt4hzzc7elzCw95qAEPIA4CEAcB
-iFNVB2iWrwfKxtn8vHQXkdfOs/6n30PkUEnns60OfoqABxAHAYgTWhE0s9esxnHSwMjm0NDqIW9j
-SNHX92ho8lg3DbT9fcGGzwh4AHEQgDgIQJyqnUG3X78m993Hx+O6ZRp4KV09FKEm3pqxUvqTMel4
-4G7bOeZb8ADiIABxEIA4oTFAbmfuLblOxwN3auoAkcMkJh3sze3yfXYX1HTadnWsPvrPyuIBxEEA
-4oRKwbmzbC+et5uf6dsGp93b7ebem3f176fGzvzz5it5WoEHEAcBiIMAxAmlgdmpTW9n0IuyIRur
-r9fr4/rDpqKG6ZjAD+PNpo4PBh5AHAQgDgIQJ3ZIVM2TTKwehqGomdzu2vQp6XhgxI4JusWbp09O
-vxf7PZ0m77fgAcRBAOLEVgQFVuRGDlhoeTiDmeGb2K5XkxYOC9dPH5qcbTxPEV9+rPurwAOIgwDE
-QQDihMYA2Y2Oju3ifLZluyn97C8mheySMY3thNupbNl4SK4PPR7AA4iDAMRBAOK0nQ5eabP2Vx3S
-GFqG1plVwN6YwKkR/H3spGx86BoBHkAcBCDO+dNA59dLQ+12Topo//mNysZ4AHEQgDgIQJztVgS1
-otHKovvLuxtL7R+csvGs4fXGvX/BHA8gDgIQBwGIE6sDZHYHlx4UuVd9wadf7sYblY3xAOIgAHFO
-Pxu43Sxjv/x67crGpIGwLQhAHAQgzumng1vtTorR+90oXm28PXgAcRCAOAhAHOoA/6kqu1aUjXcG
-DyAOAhAHAQAAAAAAAADo8BvLGPsTY8gRLQAAAABJRU5ErkJggg==
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAALHRFWHRDcmVhdGlvbiBUaW1lAEZy
+aSAyMSBKdW4gMjAxOSAxODowMTo0MiAtMDAwMMt+WbAAAAAHdElNRQfjBhURBjTeiQv1AAAACXBI
+WXMAAC4jAAAuIwF4pT92AAAABGdBTUEAALGPC/xhBQAAAwRJREFUeNrtWQl2gyAQlb7eK95McjN7
+Mgo4H8ZhwDW2tvnvJdIgMMufRdt1b7xxL1hr3U/LcEj4gDP3NFcJHq7DMMQDoYHxOLr3xxUKvBIv
+90CwfrA8DnPs0DhueEHGi/+7uPfzEis9n5PAkkL0e03wSLnKPcClFArCOLq2hA+Cp3gh79FkkQD+
+Twy08nfgJuY1nqa5csLI+2D5AMRLQTnljKbgUYCQv6ccnq8YTwLiU1U2/r5QyFArHJ3nsH9l7WIG
+8FcvlgvpgsxCY9SjYJXAU85pvyauq3hkjdHCtQhiZa/bx0DLAnO6SArBpRhjPrs6fo70PmvW1usA
+KAK6MApZ71ZL6Q1jS67G2G4QpEazzfSbBWzFAzy4HLe6mJ95orb2hM709jGgU4hnGYyJIoYyjkGF
+FFnIyIzU5TyOsazCa3qebQoIzjsIBgH8OBUXGtcUivdw4ZXjUrO30Pdo0CkEq5PlDQTD2M+bbt5d
+piqmeICvlaQPsZD2ghFWFLy2AjeCrgDRBhZNloV1ERPMqrBiopAGeBDHsPY6eXKh+5Qomqk05pyH
+YFBEaSUc3zD8lluJsonLBxpQKJ210Dqs88CNUK3E49dXvJrHo8wyLK12WlqVqFnSezw8UuJNxZ52
+WVWAtwYjKVGlkKgTJADvRnNnixgSAh55O6HGAH+oSPWABKqCzY/jGD9s36wMt/CULg+9WPibMTB7
+jEMlXvAyrNz3ffcIlCNMnnB0j2lnpR1QKaQeQAJqbwZ56rNCCVOcYg49rUnoWUjkddnDzDxU6DkF
+cN+TF5y82bEQiO37/44BVQHeGtSsz+clbPx+Th8jNk4DN0uxe7EcxEIJ17UpNGlgxYYDl5stcgjs
+6julXQpoAkvlinkIjazF580zK6LHBG2xPSYuebm7ArtptD6NtuCtX/vHy7y7DF/DXFwlxR5+pHTK
++0neC22hmNB0mj4xJk4L4vVBbvN0PSb0pQp+ax04SKFuexZqVe4SNi83LCaWF65T4HQKVbmsxMRG
+/FYKvfHGVfgGp5NoaAtsWlsAAAAASUVORK5CYII=
 "
-       id="image1125" />
+       id="image180" />
   </g>
 </svg>
