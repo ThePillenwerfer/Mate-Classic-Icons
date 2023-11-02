@@ -3,10 +3,10 @@
 
 <svg
    version="1.1"
-   id="svg367"
-   width="15.36"
-   height="15.36"
-   viewBox="0 0 15.36 15.36"
+   id="svg2"
+   width="40.959999"
+   height="40.959999"
+   viewBox="0 0 40.959999 40.959999"
    sodipodi:docname="application-x-ms-dos-executable.png"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -14,9 +14,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs371" />
+     id="defs6" />
   <sodipodi:namedview
-     id="namedview369"
+     id="namedview4"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -28,18 +28,23 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g373">
+     id="g8">
     <image
-       width="15.36"
-       height="15.36"
+       width="40.959999"
+       height="40.959999"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAB3RJTUUH4wYRDxAtP6APzwAAAAlw
-SFlzAAAuGAAALhgBKqonIAAAAARnQU1BAACxjwv8YQUAAADMSURBVHja7ZntCoQgEEVt6cHmzfTR
-xifbtZbEzF36gG4j90CkQTIHr/5Q54wzhBDe6CLOkmp3L3QRVxmXhoiga9mNqm4FvhJ6cCgMKTmZ
-fiKEQlVye4pxGY8l1ttvIffNz4B5AXiE6t2vtRv+2yFXAmUe70OP/1Gsib4iVJo9lTpOzTXgvUfX
-+ZMY46pvPkIUQEMBNBRAQwE0FEBDATQUQEMBNBRAQwE0FEBDATTmBao7Mpnf9fHdk+lnBiycTLcY
-0mP2pn7CfIQIucgHQN0mqsMPbnkAAAAASUVORK5CYII=
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAB3RJTUUH4wYRDxEH/QD3WAAAAAlw
+SFlzAAAuGAAALhgBKqonIAAAAARnQU1BAACxjwv8YQUAAAHOSURBVHja7dpdattAFIDRpHhhszN7
+aaOVpaFt3qofXDfz8J0DwRDJcMEfFzTo7Q3oen88Hh+rh+D7ff7uvz5/rB6EtQQQJ4A4AcQJIO62
+d2GMsXo2XmDOeXjdBoi7nd0wxlw9I//gz+P+LhsgTgBxAogTQJwA4k6fAnjOnOPw+tc5y9lz+t55
+zPXvPQ7vswHiBBAngDgBxAkgTgBxAohzDvCfXH2f4tn3Ll71voYNEHe6Ac5OtNgzVw/wewpvBHFE
+AHECiBNAnADiLjwFzNUz8oSr5wQ2QNzTJ4H3+3317BzYtu3SfTZAnADiBBAngDgBxAkgTgBxAogT
+QJwA4gQQJ4A4AcQJIE4AcQKIE0CcAOIEECeAOAHECSBOAHECiBNAnADiBBAngDgBxAkgTgBxAogT
+QJwA4gQQJ4A4AcQJIE4AcQKIE0CcAOIEECeAOAHECSBOAHECiBNAnADiBBAngDgBxAkgTgBxAogT
+QJwA4gQQJ4A4AcQJIE4AcQKIE0CcAOIEECeAOAHECSBOAHG3sxvGGH/9/7Ztq2fnBWyAOAHECSBO
+AHECiNt9Cphzrp6Nb2ADxL1//n2sHoJ1bIA4AcQJIE4AcQIAAAAAiPgJcCUnPiTQYeYAAAAASUVO
+RK5CYII=
 "
-       id="image375" />
+       id="image10" />
   </g>
 </svg>
