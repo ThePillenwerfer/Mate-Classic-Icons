@@ -17,13 +17,13 @@ It has only been fully tested on Debian Stretch, Buster and Bookworm running the
 
 For Debian-based distros click Releases and then *mate-classic-icons.deb* and install the downloaded .deb package by double-clicking it.
 
-For other distros click the green "Code" button then Download ZIP.  When this has downloaded open it and extract the Mate-Classic-Icons-master directory to ~/.icons; you may have to press Ctrl-h to make it show in your file manager.
+For other distros click the green "Code" button then Download ZIP.  When this has downloaded open it and extract the `Mate-Classic-Icons-master` directory to `~/.icons`; you may have to press Ctrl-h to make it show in your file manager.
 
 Now open the Mate Control Centre and click Appearance and choose the TraditionalOK theme.  Then click Customise followed by the Window Border tab and choose WinMe.  Now click the Icons tab and choose Mate-Classic.
 
 Most icons will change immediately but a few, such as those in the Notification Area, only will after a reboot.
 
-On older versions of Mate the Start button has to be changed manually by right clicking it then choosing Preferences.  Delete the contents of the 'Button text' box then click on the box next to the words 'Button icon:'.  Now navigate to /usr/share/icons/mate-classic/Misc or ~/.icons/Mate-Classic-Icons-master/Misc and choose Start.png — again you may have to press Ctrl-h to make it show.
+On older versions of Mate the Start button has to be changed manually by right clicking it then choosing Preferences.  Delete the contents of the 'Button text' box then click on the box next to the words 'Button icon:'.  Now navigate to `/usr/share/icons/mate-classic/Misc` or `~/.icons/Mate-Classic-Icons-master/Misc` and choose `Start.png` — again you may have to press Ctrl-h to make it show.
 
 Sadly this has now been changed and the icon will change automatically but the text next to it will stay the same.  If you want it to say "Start" instead of "Menu" right click it and then choose Preferences and change it in the 'Button text' box.  It still won't look as good as it used to though.
 
