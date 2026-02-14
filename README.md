@@ -15,15 +15,15 @@ It has only been fully tested on Debian Stretch, Buster and Bookworm running the
 
 # INSTALLATION
 
-For Debian-based distros click Releases and then *mate-classic-icons_260213.deb*.  If you have the `gdebi` package already installed double-clicking the downloaded .deb will install it.  Otherwise open a terminal and run:—
+For Debian-based distros click Releases and then **`mate-classic-icons_260213.deb`**.  If you have the `gdebi` package already installed double-clicking the downloaded .deb will install it.  Otherwise open a terminal and run:—
 
 ```
-     sudo apt install path-to/mate-classic-icons_260213_all.deb
+sudo apt install path-to/mate-classic-icons_260213_all.deb
 ```
 so if it's in your Downloads directory you'd actually type:—
   
 ```
-     sudo apt install ~/Downloads/mate-classic-icons_260213_all.deb
+sudo apt install ~/Downloads/mate-classic-icons_260213_all.deb
 ```
 
 For other distros click the green "Code" button then Download ZIP.  When this has downloaded open it and extract the `Mate-Classic-Icons-master` directory to `~/.icons`; you may have to press Ctrl-h to make it show in your file manager.
