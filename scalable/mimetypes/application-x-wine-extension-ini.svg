@@ -33,11 +33,11 @@
      fill="#777"
      transform="matrix(0.63962206,0.26494013,-0.26494013,0.63962206,387.26727,171.72885)"
      id="use7"
-     style="fill:#ff0000" />
+     style="fill:#008000" />
   <use
      xlink:href="#c"
      fill="#999"
      transform="matrix(0.69232193,0,0,0.69232193,176.10908,382.88703)"
      id="use9"
-     style="fill:#0000ff;fill-opacity:1" />
+     style="fill:#a4ad28;fill-opacity:1" />
 </svg>
